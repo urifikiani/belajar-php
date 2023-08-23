@@ -1,0 +1,5 @@
+<?php
+print"<h2>PHP itu menyenamgkan!</h2>";
+print"haloo mas mbak!<br>";
+print"sedang belajar php!";
+?>
